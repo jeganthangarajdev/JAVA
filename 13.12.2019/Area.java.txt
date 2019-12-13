@@ -1,0 +1,10 @@
+public class Area
+{
+	public static void main(String args[])
+ 	{
+		int a=2;
+		    b=4;
+                    z=a*b;
+		System.out.println("the area of the square is"+'z'+"having"+2+"as length")
+}
+}
